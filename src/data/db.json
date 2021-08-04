@@ -1,0 +1,973 @@
+{
+    "es": {
+        "catalogo": {
+            "nombre": "Catálogo Online"
+        },
+        "opciones": {
+            "opcion1": "Aranceles",
+            "opcion2": "Asesoría Educativa",
+            "opcion3": "Bedelía",
+            "opcion4": "Bienestar Estudiantil",
+            "opcion5": "Buffet",
+            "opcion6": "Campo de Deportes",
+            "opcion7": "Centro de Oficios",
+            "opcion8": "Centro Universitario de Lenguas",
+            "opcion9": "Ciencia y Técnica",
+            "opcion10": "Cobranzas",
+            "opcion11": "Colegio CUMaza",
+            "opcion12": "Comité de Ética",
+            "opcion13": "Compras",
+            "opcion14": "Cómputos",
+            "opcion15": "Comunicación Institucional",
+            "opcion16": "Consultorio",
+            "opcion17": "Contaduria",
+            "opcion18": "Credenciales",
+            "opcion19": "DEC CJE",
+            "opcion20": "DEC EDU",
+            "opcion21": "DEC ENO",
+            "opcion22": "DEC FYB",
+            "opcion23": "DEC ING",
+            "opcion24": "DEC KIN",
+            "opcion25": "DEC NUT",
+            "opcion26": "DEC PER",
+            "opcion27": "DEC VET",
+            "opcion28": "Deporte y Recreación",
+            "opcion29": "Dirección de Extensión y Vinculación",
+            "opcion30": "Editorial",
+            "opcion31": "Educación a Distancia",
+            "opcion32": "Imprenta",
+            "opcion33": "Informes",
+            "opcion34": "Investigación",
+            "opcion35": "Laboratorio Central",
+            "opcion36": "Laboratorio de Física",
+            "opcion37": "Laboratorio de Fisiología",
+            "opcion38": "Mantenimiento",
+            "opcion39": "Organización y Métodos",
+            "opcion40": "Rectorado",
+            "opcion41": "Recursos Humanos",
+            "opcion42": "Secretaría General",
+            "opcion43": "Sueldos",
+            "opcion44": "Unidad de Práctica Veterinaria",
+            "opcion45": "Universidad Saludable",
+            "opcion46": "Otros: Particular"
+        },
+        "bibliotecasdigitales": {
+            "titulo1": "REVISTAS",
+            "titulo2": "DIGITALES",
+            "titulo3": "BIBLIOTECAS",
+            "titulo4": "DIGITALES",
+            "titulo5": "LIBROS DIGITALES",
+            "titulo6": "BASES DE DATOS",
+            "revistasdigitales": {
+                "revista1": "Portal de Revistas Abiertas en OJS",
+                "revista2": "ICU - Revista de la Universidad Juan Agustín Maza",
+                "revista3": "En La Mira - Revista de la Universidad Juan Agustín Maza",
+                "revista4": "Directory of Open Access Journals",
+                "revista5": "Editum",
+                "revista6": "E-Revistas",
+                "revista7": "Mundo Eslavo",
+                "revista8": "OAIster",
+                "revista9": "Pontificia Universidad Católica Argentina",
+                "revista10": "Portal de Revistas UR",
+                "revista11": "Red SCIELO",
+                "revista12": "REDALYC",
+                "revista13": "REDVET",
+                "revista14": "RELIEVE",
+                "revista15": "Revistas-CSIC",
+                "revista16": "Universidad del Rosario",
+                "revista17": "Universidad Nacional de Chile",
+                "revista18": "Universidad Nacional de Córdoba",
+                "revista19": "Universidad Nacional de Cuyo",
+                "revista20": "Universidad Nacional de La Pampa",
+                "revista21": "Universidad Nacional de La Plata",
+                "revista22": "Universidad Nacional de La Rioja",
+                "revista23": "Universidad Nacional de San Martín",
+                "revista24": "Universidad Nacional del Nordeste",
+                "revista25": "Universidad Tecnológica Nacional"
+            },
+            "bibliotecasdigitales": {
+                "biblioteca1": "Biblioteca Electrónica del Mincyt",
+                "biblioteca2": "Biblioteca Ciberoteca",
+                "biblioteca3": "Biblioteca Dialnet",
+                "biblioteca4": "Biblioteca Digital del Patrimonio Iberoamericano",
+                "biblioteca5": "Biblioteca Digital Hispana",
+                "biblioteca6": "Biblioteca Digital Hispánica",
+                "biblioteca7": "Biblioteca Electrónica AFIP",
+                "biblioteca8": "Biblioteca Electrónica Elena (OSM)",
+                "biblioteca9": "Biblioteca Europeana",
+                "biblioteca10": "Biblioteca Gallica",
+                "biblioteca11": "Biblioteca Virtual del CSIC",
+                "biblioteca12": "Biblioteca Virtual del Patrimonio Bibliográfico (BVPB)",
+                "biblioteca13": "Biblioteca Virtual Miguel de Cervantes",
+                "biblioteca14": "Biblioteca Virtual Universal",
+                "biblioteca15": "Digital Public Library of America (DPLA)",
+                "biblioteca16": "Portal de Portales Latindex (PPL)",
+                "biblioteca17": "Portales Médicos",
+                "biblioteca18": "Red de Bibliotecas Virtuales de CLACSO",
+                "biblioteca19": "Sistemas de Biblioteca Uach",
+                "biblioteca20": "Universidad Nacional Autónoma de México",
+                "biblioteca21": "Wikisource Biblioteca Digital Libre"
+            },
+            "librosdigitales": {
+                "libro1": "Análisis de Causales en Datos Tributarios con Anomalías",
+                "libro2": "Anatomia de la creatividad - Llorenç Guilera",
+                "libro3": "Código Alimentario",
+                "libro4": "Creatividad y Docencia Universitaria - Solar, María Inés",
+                "libro5": "Creatividad - Angulo De Haro, David",
+                "libro6": "Desarrollo de la Creatividad - Goméz, José",
+                "libro7": "Desarrollo Pensamiento Creativo - Velasco, Lucía",
+                "libro8": "El Pensamiento Lateral - De Bono, Edward",
+                "libro9": "Innovación y Creatividad - Torres Soler, Luis Carlos",
+                "libro10": "La Creatividad e Intervención en la Educación Infantil - Vázquez Valdivia",
+                "libro11": "RADALYC",
+                "libro12": "RADU VIRTUAL",
+                "libro13": "SAIJ",
+                "libro14": "SIU-BDU",
+                "libro15": "TESEO"
+            }
+        },
+        "placeholder": {
+            "apellido": "Ingrese su Apellido",
+            "nombre": "Ingrese su Nombre",
+            "dni": "Ingrese su D.N.I.",
+            "email": "Ingrese su Email",
+            "telefono": "Ingrese su Teléfono",
+            "mensaje": "Ingrese su Mensaje"
+        },
+        "herramientas": {
+            "titulo": "Nombre de la Herramienta",
+            "herramienta1": "Darwinismo Digital",
+            "herramienta2": "Catalogación",
+            "herramienta3": "Leer en Biblioteca",
+            "herramienta4": "El Rol de Biblioteca",
+            "herramienta5": "Digitalización: Normas",
+            "herramienta6": "Biblioteca: Conexión",
+            "herramienta7": "Normas APA",
+            "herramienta8": "Repositorio UNLP: Mejor de Argentina",
+            "herramienta9": "Universidad Nacional Autónoma de México",
+            "herramienta10": "Asociación Mexicana de Bibliotecarios A.C.",
+            "herramienta11": "Sociedad Argentina de Información",
+            "herramienta12": "Biblioteca Nacional de Maestro",
+            "herramienta13": "Página del Profesional de la Información",
+            "herramienta14": "Biblioteca Argentina para Ciegos",
+            "herramienta15": "Normas APA 2019",
+            "herramientaBib":"Nombre del Libro - Página"
+        },
+        "info": {
+            "formularios": {
+                "titulo": "FORMULARIOS",
+                "autorizaciondocumentos": "AUTORIZACIÓN DE DOCUMENTOS",
+                "autorizaciontesis": "AUTORIZACIÓN DE TESIS",
+                "notificacionreglamento": "NOTIFICACIÓN DE REGLAMENTO",
+                "reglamentobiblioteca": "REGLAMENTO DE BIBLIOTECA"
+            },
+            "folleteria": {
+                "titulo": "FOLLETERÍA",
+                "bibliotecafolleto": "FOLLETO DE BIBLIOTECA",
+                "prestamosbusquedas": "PRÉSTAMOS - BÚSQUEDAS",
+                "catalogoopac": "CATÁLOGO OPAC",
+                "opacguiadeuso": "OPAC: GUÍA DE USO"
+            }
+        },
+        "imprenta": {
+            "jumbotron": {
+                "titulo": "IMPRENTA UMAZA",
+                "subtitulo": "Universidad Juan Agustín Maza",
+                "contenido": "En la imprenta de la Universidad Maza se realizan tareas de copiado, impresión y encuadernación de materiales de estudio completos para las cátedras que cursan los alumnos. Además imprenta realiza trabajos particulares a Docentes, Alumnos, Investigadores y personal de Apoyo y Gestión de la Universidad."
+            },
+            "card": {
+                "titulo": "IMPRENTA UMAZA",
+                "subtitulo": "Coordinación: Sr. Renato Morelli"
+            },
+            "galeria": {
+                "titulo1": "PRINCIPALES TAREAS",
+                "contenido1": "En la Imprenta de la Universidad, se realizan talonarios, formularios, membretes y demás materiales utilizados por las oficinas y áreas de la Universidad para realizar distintas gestiones",
+                "titulo2": "COMPRAR APUNTES",
+                "contenido2": "Para acceder a la compra de los apuntes de cátedra completos o fotocopias particulares, el alumno deberá adquirir previamente una tarjeta recargable gratuita (solo la primera vez)",
+                "titulo3": "ADQUIRIR LA TARJETA",
+                "contenido3": "Para adquirir la misma se le deberá realizar una carga en la oficina de aranceles, que se ira descontando a medida que se retiren copias particulares o apuntes de cátedra completos.",
+                "titulo4": "APUNTES DE CÁTEDRA",
+                "contenido4": "Todo apunte de cátedra completo se retira en Imprenta, previamente revisado y autorizado por el profesor titular.",
+                "titulo5": "COPIAS PARTICULARES",
+                "contenido5": "Se realizan en la Fotocopiadora, con la única salvedad de no poder fotocopiar materiales que posean derechos de autor.",
+                "titulo6": "LEY N°11.723",
+                "contenido6": "Regula tales derechos y se llama Ley 11.723 REGIMEN LEGAL DE LA PROPIEDAD INTELECTUAL, conocida como “Ley Noble”."
+            }
+        },
+        "editorial": {
+            "jumbotron": {
+                "titulo": "EDITORIAL UMAZA",
+                "subtitulo": "Universidad Juan Agustín Maza",
+                "contenido": "La producción editorial es un proceso compuesto de diversos pasos, los cuales van desde la creación del libro por parte del autor hasta el consumo de este por parte del lector. Normalmente cada parte del proceso está encargada a un ente institucional específico."
+            },
+            "card": {
+                "titulo": "EDITORIAL UMAZA",
+                "subtitulo": "Coordinación: Lic. Pamela Alcover"
+            },
+            "galeria": {
+                "titulo1": "ENTREGA DEL ORIGINAL",
+                "contenido1": "Se inicia cuando el autor entrega un texto original a la editorial o el editor de una publicación, con el fin de que la obra sea evaluada y se decida si puede o no publicarse. El original es el material que va a servir de base para el futuro libro.",
+                "titulo2": "EVALUACIÓN EDITORIAL",
+                "contenido2": "La Evaluación de la Editorial, la misma consiste básicamente en un análisis de la factibilidad editorial. Para ello, se tienen en cuenta criterios como los siguientes. Determinar si el original entregado tiene el nivel de elaboración adecuado",
+                "titulo3": "NIVEL ELABORACIÓN",
+                "contenido3": "Si el original cumple per-fectamente con las funciones para las cuales fue concebido. También puede darse el caso, muy corriente, que la comisión devuelva el original al autor con el fin de que lo reelabore, lo amplíe o le haga las correcciones que vengan al caso.",
+                "titulo4": "CORRECCIÓN",
+                "contenido4": "Consiste en revisar y corregir un manuscrito original con el fin de darle la claridad, la concisión y la armonía, agregando valor al texto, y volviéndolo inteligible para el lector. Corrige la ortografía, la gramática, la sintaxis, la ortotipográfia, el estilo, el for­mato.",
+                "titulo5": "DIAGRAMACIÓN",
+                "contenido5": "En la diagramación lo que muestra puesta en página de la obra, en donde se le dará forma gráfica final al texto y las imágenes que conforman la obra. Expresado con más detalles, es el medio por el cual se establece, las características físicas que tendrá la publicación.",
+                "titulo6": "IMPRESIÓN",
+                "contenido6": "En la impresión es un proceso para la producción de textos e imágenes, típicamente con tinta sobre papel usando una prensa rotativa. A menudo se realiza como un proceso industrial a gran escala, y es una parte esencial de la edición de libros. Casi producto terminado.",
+                "titulo7": "ENCUADERNACIÓN   ",
+                "contenido7": "Se llama encuadernación a la acción de coser o pegar varios pliegos o cuadernos de texto y ponerles cubiertas. La misma es una de las etapas finales de la edición antes de entregar el material ",
+                "titulo8": "CIRCULACIÓN-VENTA",
+                "contenido8": "Una vez impreso el libro, revista o periódico se pone en marcha su distribución y venta. Muchas de las estrategias de venta y circula­ción son predefinidas por el Dpto. de Marketing de la editorial. ",
+                "titulo9": "LA EDITORIAL",
+                "contenido9": "El Área está coordinado por la Lic. Pamela Alcover y el Dis. Mauricio Galeone. La Editorial UMaza, posee una Librería Online. Para acceder:"
+            }
+        },
+        "biblioteca": {
+            "jumbotron": {
+                "titulo": "BIBLIOTECA CENTRAL",
+                "subtitulo": "Universidad Juan Agustín Maza",
+                "contenido": "Su nombre se lo debe al “Profesor Arlington Ernesto Lucero”, homenaje póstumo a este docente fundador de la Universidad. En su trayectoria se desempeñó como Decano de la Facultad de Ciencias Físico Matemáticas, Rector del Instituto de Enseñanza Secundaria y Secretario General de la Universidad."
+            },
+            "card": {
+                "titulo": "PROF. ARLINGTON LUCERO",
+                "subtitulo": "Coordinación General: Lic. Ana María Beningazza"
+            },
+            "galeria": {
+                "titulo1": "QUIÉNES SOMOS",
+                "contenido1": "En el se tiene contacto directo con los Alumnos, Docentes e Investigadores para prestarles o recomendarles el material solicitado.",
+                "titulo2": "SALA PARLANTE",
+                "contenido2": "Pensada para que alumnos puedan realizar sus trabajos, estudios de forma cálida y cómoda. La misma está equipada con sillas, mesones y demás.",
+                "titulo3": "SALA LECTURA SILENCIOSA",
+                "contenido3": "Otorga un plus de calma, sosiego, reposo y permite apartarse del sonido externo, logrando mayor concentración: fijar el pensamiento sin distraerse.",
+                "titulo4": "SALA INTERNET ALUMNOS",
+                "contenido4": "Equipada con 12 PC. El alumno deberá acercarse a mostrador y pedir una PC. El Bibliotecaterio le solicitará que llene el cuaderno para que se le asigne una PC.",
+                "titulo5": "SALA INTERNET DOCENTES",
+                "contenido5": "Equipada con 4 PC para uso exclusivo de docentes e investigadores, Biblioteca Electrónica de MINCYT y dos escritorios con cable de red para ordenadores personales.",
+                "titulo6": "SALA PROFESORES CUYANA",
+                "contenido6": "Dicha Sala cuenta con un moviliario prestigioso y revistas, para que Docentes e Investigadores puedan realizar en forma cómoda sus tareas educativas."
+            }
+        },
+        "footer": {
+            "col1": {
+                "titulo1": "UNIVERSIDAD",
+                "titulo2": "MAZA",
+                "direccion1": "DIRECCIÓN",
+                "direccion2": "Avenida Acceso Este, Lateral Sur 2245, Guaymallén, Mendoza."
+
+            },
+            "col2": {
+                "titulo1": "HORARIOS",
+                "titulo2": "BIBLIOTECA",
+                "biblioteca1": "BIBLIOTECA",
+                "biblioteca2": "Lunes a viernes de 8:30 a 21:30 hs",
+                "editorial1": "EDITORIAL",
+                "editorial2": "Martes, Miércoles y Viernes de 14 a 19hs - Lunes y Jueves de 08 a 13hs",
+                "imprenta1": "IMPRENTA",
+                "imprenta2": "Lunes a viernes de 9 a 13 hs y de 16 a 21 hs"
+            },
+            "col3": {
+                "titulo1": "REDES",
+                "titulo2": "SOCIALES",
+                "correo": "Correo Electrónico - Biblioteca Central",
+                "telefono1": "Teléfono",
+                "telefono2": "Directo"
+            },
+            "col4": {
+                "titulo1": "Cambiar",
+                "titulo2": "Idioma",
+                "ingles": "Inglés",
+                "español": "Español"
+            }
+        },
+        "header": {
+            "menu1": {
+                "opac": "Catálogo Online OPAC",
+                "repositorio": "Repositorio Institucional",
+                "reservacion": "Espacio Académico Cultural: Reservas Online",
+                "bibliotecasdigitales": "Bibliotecas Digitales",
+                "bibliotecariosherramientas": "Bibliotecarios: Herramientas",
+                "manual":"Manual de Usuario"
+            },
+            "menu2": {
+                "biblioteca": "BIBLIOTECA",
+                "quienessomos": {
+                    "titulo": "Quienes Somos",
+                    "biblioteca": "Biblioteca",
+                    "editorial": "Editorial",
+                    "imprenta": "Imprenta"
+                },
+                "ingresos": {
+                    "titulo": "Material: Ingresos",
+                    "i2017": "Ingresos 2017",
+                    "i2018": "Ingresos 2018",
+                    "i2019": "Ingresos 2019"
+                },
+                "infobiblioteca": {
+                    "titulo": "+INFO BIBLIOTECA",
+                    "calendario": "Calendario Académico",
+                    "formulario": "Formulario - Folletería",
+                    "guia": "Guía Alimentaria",
+                    "libreria": "Librería Online",
+                    "radbu": "RADU - RADBU",
+                    "bibliotecaDigital": "Biblioteca Digital"
+                },
+                "galeria": {
+                    "titulo": "Galería",
+                    "galeria1": "Día del Nutricionista",
+                    "galeria2": "Exposición Cuadros",
+                    "galeria3": "Fain Binda",
+                    "galeria4": "Fechas Patrias",
+                    "galeria5": "Feria Ideas",
+                    "galeria6": "Jornadas Investigación",
+                    "galeria7": "Marita Oliva",
+                    "galeria8": "Obras Postales"
+                },
+                
+                "coronavirus":{
+                    "material":"Pandemia: Servicios de BIB"
+                },
+                "contacto": "Contacto"
+            }
+        },
+        "home": {
+            "jumbotron": {
+                "titulo": "BIBLIOTECA CENTRAL",
+                "subtitulo": "Profesor Arlington Lucero",
+                "contenido": "La misión de la Biblioteca es ofrecer un servicio de información que permita a la comunidad educativa desarrollar la docencia, la investigación y la formación continua de ciudadanos responsables, éticos y comprometidos con el bien común."
+            },
+            "card": {
+                "titulo": "UNIVERSIDAD MAZA",
+                "subtitulo": "Avenida Acceso Este, Lateral Sur 2245",
+                "coordinacion": "Coordinación General: Licenciada Ana María Beningazza"
+            },
+            "video": {
+                "principal": "Últimos Videos",
+                "titulo1": "Quienes Somos",
+                "titulo2": "Debo Asociarme!",
+                "titulo3": "Cómo es ALFIN"
+            },
+            "ultimasnovedades": {
+                "cartel": "Últimas Novedades"
+            },
+            "noticias": {
+                "titulo": "Sección Noticias",
+                "noticia1": {
+                    "fecha": "02 / MAYO / 2019",
+                    "titulo": "Feria del Libro",
+                    "descripcion": "Otro año más que Editorial UMaza participa en la Feria Internacional del Libro en Buenos Aires - #FILBA2019. Para aquellos interesados en visitarla hasta el 13 de Mayo hay entradas gratuitas en Biblioteca y Bedelía (de lunes a jueves)."
+                },
+                "noticia2": {
+                    "fecha": "25 / ABRIL / 2019",
+                    "titulo": "Introducción Curso ALFIN",
+                    "descripcion": "En el día de la fecha recibimos la visita de los alumnos de la Escuela Silvia Martínez de Ruiz Nº 4-240 (Departamento de San Martín), se les ofreció Introducción al curso ALFIN (Alfabetización Informacional y Capacitación en el uso de recursos electrónicos de la Universidad) con visita guiada. Acompañados por Adultos responsables: Rubén Yonzo; Nancy Heredia; Lorena Oyola y Macarena Moreno. La visita estuvo guiada por los Bibliotecarios Sra. Sandra Zuñiga y el Sr. Patricio Rojas."
+                },
+                "noticia3": {
+                    "fecha": "17 / ABRIL / 2019",
+                    "titulo": "Donación de Sangre",
+                    "descripcion": "Miércoles 17 de Abril de 09 a 13 hs en Biblioteca Central se realizará la Donación de Sangre. Para más información comunicarse con DEC FYB: 4056212"
+                },
+                "noticia4": {
+                    "fecha": "28 / MARZO / 2019",
+                    "titulo": "Reunión Plenaria RADBU",
+                    "descripcion": "Sede: Biblioteca Pública General San Martín En ella estuvo presente la Lic. Ana María Beningazza, jefa de Biblioteca, Editorial e Imprenta y la Sra. Sandra Zuñiga, auxiliar de Biblioteca."
+                },
+                "noticia5": {
+                    "fecha": "03 / DICIEMBRE / 2018",
+                    "titulo": "Incorporación de RADBU",
+                    "descripcion": "La Red Andina de Bibliotecas Universitarias (RADBU) se incorpora a la Red de Redes de Información Reciaria. Cristina Borrajo, del área de Comunicación -y de parte del Comité Coordinador de Reciaria- expresó su agradecimiento por el interés de la RADBU en formar parte de tal proyecto cooperativo."
+                },
+                "noticia6": {
+                    "fecha": "24 / OCTUBRE / 2018",
+                    "titulo": "Entrevista a Lic. Beningazza",
+                    "descripcion": "Entrevista realizada a la Jefa de Biblioteca Lic. Ana María Beningazza por Paulina Gamberg, integrante de la Comisión Directiva de la Asociación de Bibliotecarios de la República Argentina (ABGRA), para el Boletín de ABGRA, en la Universidad Católica Argentina Sede Mendoza UCA, durante la reunión que mantuvo con colegas el miércoles 10 de Octubre."
+                },
+                "noticia7": {
+                    "fecha": "13 / SEPTIEMBRE / 2018",
+                    "titulo": "Día del Bibliotecario",
+                    "descripcion": "Día del Bibliotecario En Egipto se llamaban las Bibliotecas el tesoro de los remedios del alma. En efecto, curábase en ellas de la ignorancia, la más peligrosa de las enfermedades y el origen de todas las demás - Jacques Bénigne Bossuet"
+                },
+                "noticia8": {
+                    "fecha": "25 / AGOSTO / 2018",
+                    "titulo": "Creación Repositorio Digital",
+                    "descripcion": "En el año 2016 las áreas de Biblioteca, y Ciencia y Técnica en forma conjunta con Editorial crean el Repositorio Institucional. Este servicio da a conocer la producción académica, científico técnica y la memoria académica de la institución, tanto como material académico y de difusión de sus actividades."
+                },
+                "noticia9": {
+                    "fecha": "20 / AGOSTO / 2018",
+                    "titulo": "Diplomatura: Inscripción",
+                    "descripcion": "Les recordamos que el cierre de inscripción a la Diplomatura en Gestión de Biblioteca es el día 15 de Abril de 2019. Seguimos contestando todas tus dudas. Te Esperamos! Cupos Limitados. Para más información: clic aquí o comunicarse al teléfono de informes: +54-0261-5201630 o vía mail: radbu@uda.edu.ar"
+                },
+                "noticia10": {
+                    "fecha": "11-12 / SEPTIEMBRE / 2019",
+                    "titulo": "Libro Electrónico",
+                    "descripcion": "El 11 y 12 de septiembre se realizará el segundo seminario sobre “La realidad del libro electrónico en las bibliotecas de Argentina”. La Biblioteca de la Universidad Maza participará de la actividad, que se realizará en el Auditorio de la Facultad de Derecho de la UNCuyo."
+                },
+                "noticia11": {
+                    "fecha": "30 / AGOSTO / 2019",
+                    "titulo": "Feria del Libro 2019",
+                    "descripcion": "Desde el viernes 30 de agosto,  hasta el 8 de septiembre se llevará a cabo el acontecimiento más importante para la industria del libro en Mendoza. Dedicada esta edición a Juan Dragui Lucero, Iverna Codina y Antonio Di Benedetto. La Editorial UMaza participará con un stand en el Espacio Cultural Julio Le Parc, y presentará 2 títulos recientemente publicados. En el stand 44, asignado a la Editorial UMaza, podrán encontrarse con sus títulos,  y además el de otras editoriales universitarias (como EDIUNC, UNSAM, EDUNER, EDUNSE, EDUVIM, EUDEBA...), comerciales e independientes. Habrá promociones, descuentos especiales y los libros que se presenten en la feria se conseguirán a un precio único. Podrá visitarse durante las 10 jornadas de 16 a 22 y se aceptarán todos los medios de pago. En cuanto a las presentaciónes, el martes 3 de septiembre a las 19hs en la sala Chalo Tulián se presentará el libro Musicoterapia en el Ámbito Geriátrico, de Cora Leivinson, quien estará acompañada por alumnos de la carrera de Musicoterapia realizando una sesión en vivo, mientras que el sábado 7 de septiembre a las 19hs en la sala Vilma Rúpulo se realizará la presentación del libro Avelino Maure, 50 años, de José Luis Verderico, la cual contará con la participación de la periodista Marcela Furlano."
+                }
+            }
+        },
+        "principales": {
+            "importante":"Importante:",
+            "clic":"Clic aquí",
+            "manualUsuario":"Para Ver Manual de Usuario:",
+            "informacion":"Datos de Mincyt",
+            "tituloMincyt":"Usuarios-Contraseñas-Proxy-Puerto",
+            "PER":"Facultad de Periodismo",
+            "EDU":"Facultad de Educación",
+            "FYB":"Facultad de Farmacia y Bioquímica",
+            "KIN":"Facultad de Kinesiología y Fisioterapia",
+            "CEJ":"Facultad de Ciencias Empresariales y Jurídicas",
+            "ENO":"Facultad de Enología",
+            "NUT":"Facultad de Nutrición",
+            "ING":"Facultad de Ingeniería",
+            "VET":"Facultad de Veterinaria",
+            "mincyt":"Bases Datos Mincyt",
+            "tituloM":"Bases de Datos referenciales y de texto completo, suscriptas por la Biblioteca Electrónica de Ciencia y Tecnología de la República Argentina, a cuyo contenido puede accederse desde las instituciones habilitadas.",
+            "enviar": "Enviar",
+            "imagen": "Ver Imágen",
+            "db":"Ir a Mincyt",
+            "cerrar": "Cerrar",
+            "visitar": "Visitar Página",
+            "iralapagina": "Ir a la Página",
+            "meses": {
+                "titulo": "Mes",
+                "mes1": "Enero",
+                "mes2": "Febrero",
+                "mes3": "Marzo",
+                "mes4": "Abril",
+                "mes5": "Mayo",
+                "mes6": "Junio",
+                "mes7": "Julio",
+                "mes8": "Agosto",
+                "mes9": "Septiembre",
+                "mes10": "Octubre",
+                "mes11": "Noviembre",
+                "mes12": "Diciembre"
+            }
+        },
+        "contacto": {
+            "info": {
+                "informacion": "INFORMACIÓN DE CONTACTO",
+                "correo": "biblioteca@umaza.edu.ar",
+                "telefono": "+54 (0261) - 4056223"
+            },
+            "datos": {
+                "apellido": "Apellido",
+                "nombre": "Nombre",
+                "telefono": "Teléfono",
+                "email": "Email",
+                "mensaje": "Mensaje"
+            }
+        },
+        "reservacion": {
+            "info": {
+                "informacion": "INFORMACIÓN DE CONTACTO",
+                "correo": "biblioteca@umaza.edu.ar",
+                "telefono": "+54 (0261) - 4056223"
+            },
+            "datos": {
+                "apellido": "Apellido",
+                "nombre": "Nombre",
+                "dni": "D.N.I.",
+                "email": "Email",
+                "telefono": "Teléfono",
+                "area": "Seleccione Área de UMaza o Particular",
+                "area2": "Área de UMaza o Particular",
+                "hentrada": "Hora Entrada",
+                "hsalida": "Hora Salida",
+                "diareservar": "Día a Reservar",
+                "mensaje": "Mensaje"
+            }
+        }
+    },
+    "en": {
+        "catalogo": {
+            "nombre": "Online Catalog"
+        },
+        "opciones": {
+            "opcion1": "Accountancy",
+            "opcion2": "Bedelía",
+            "opcion3": "Buffet",
+            "opcion4": "Charge",
+            "opcion5": "Central Laboratory",
+            "opcion6": "Computation",
+            "opcion7": "Consulting Room",
+            "opcion8": "CUMaza School",
+            "opcion9": "Credentials",
+            "opcion10": "DEC CJE",
+            "opcion11": "DEC EDU",
+            "opcion12": "DEC ENO",
+            "opcion13": "DEC FYB",
+            "opcion14": "DEC ING",
+            "opcion15": "DEC KIN",
+            "opcion16": "DEC NUT",
+            "opcion17": "DEC PER",
+            "opcion18": "DEC VET",
+            "opcion19": "Duty",
+            "opcion20": "Editorial",
+            "opcion21": "Educational Advisory",
+            "opcion22": "Ethics Committee",
+            "opcion23": "Extension and Liaison Office",
+            "opcion24": "General Secretary",
+            "opcion25": "Healthy University",
+            "opcion26": "Human Resources",
+            "opcion27": "Institutional Comunication",
+            "opcion28": "Investigation",
+            "opcion29": "Long Distance Education",
+            "opcion30": "Maintenance",
+            "opcion31": "Organization and Methods",
+            "opcion32": "Physics Laboratory",
+            "opcion33": "Physiology Laboratory",
+            "opcion34": "Printing",
+            "opcion35": "Rector's Office",
+            "opcion36": "Reports",
+            "opcion37": "Salaries",
+            "opcion38": "Science and Technology",
+            "opcion39": "Sports and Recreation",
+            "opcion40": "Sports Field",
+            "opcion41": "Student Welfare",
+            "opcion42": "To Buy",
+            "opcion43": "Trade Center",
+            "opcion44": "University Language Center",
+            "opcion45": "Veterinary Practice Unit",
+            "opcion46": "Other: Private"
+        },
+        "bibliotecasdigitales": {
+            "titulo1": "DIGITAL",
+            "titulo2": "MAGAZINES",
+            "titulo3": "DIGITAL",
+            "titulo4": "LIBRARIES",
+            "titulo5": "DIGITAL BOOKS",
+            "titulo6": "DATABASES",
+            "revistasdigitales": {
+                "revista1": "Portal of Open Journals in OJS",
+                "revista2": "ICU - Journal of the Juan Agustín Maza University",
+                "revista3": "Magazine of the University Juan Agustín Maza",
+                "revista4": "Directory of Open Access Journals",
+                "revista5": "Editum",
+                "revista6": "E-Revistas",
+                "revista7": "Slavic World",
+                "revista8": "OAIster",
+                "revista9": "Pontifical Argentine Catholic University",
+                "revista10": "UR Magazine portal",
+                "revista11": "SCIELO network",
+                "revista12": "REDALYC",
+                "revista13": "REDVET",
+                "revista14": "RELIEVE",
+                "revista15": "Magazines-CSIC",
+                "revista16": "University of Rosario",
+                "revista17": "National University of Chile",
+                "revista18": "National University of Cordoba",
+                "revista19": "National University of Cuyo",
+                "revista20": "National University of La Pampa",
+                "revista21": "National University of La Plata",
+                "revista22": "National University of La Rioja",
+                "revista23": "National University of San Martín",
+                "revista24": "National University of the Northeast",
+                "revista25": "National Technological University"
+            },
+            "bibliotecasdigitales": {
+                "biblioteca1": "Mincyt Electronic Library",
+                "biblioteca2": "Cyber ​​Library",
+                "biblioteca3": "Dialnet Library",
+                "biblioteca4": "Digital Library of Ibero-American Heritage",
+                "biblioteca5": "Hispanic Digital Library",
+                "biblioteca6": "Hispanic Digital Library",
+                "biblioteca7": "AFIP Electronic Library",
+                "biblioteca8": "Elena Electronic Library (OSM)",
+                "biblioteca9": "Europeana Library",
+                "biblioteca10": "Gallica Library",
+                "biblioteca11": "Virtual Library of the CSIC",
+                "biblioteca12": "Virtual Library of Bibliographic Heritage (BVPB)",
+                "biblioteca13": "Miguel de Cervantes Virtual Library",
+                "biblioteca14": "Universal Virtual Library",
+                "biblioteca15": "Digital Public Library of America (DPLA)",
+                "biblioteca16": "Porta Portal Latindex (PPL)",
+                "biblioteca17": "Medical Portals",
+                "biblioteca18": "Virtual Library Network of CLACSO",
+                "biblioteca19": "Uach Library Systems",
+                "biblioteca20": "National Autonomous University of Mexico",
+                "biblioteca21": "Wikisource Free Digital Library"
+            },
+            "librosdigitales": {
+                "libro1": "Analysis of Causes in Tax Data with Abnormalities",
+                "libro2": "Anatomy of creativity - Llorenç Guilera",
+                "libro3": "Food Code",
+                "libro4": "Creativity and University Teaching - Solar, María Inés",
+                "libro5": "Creativity - Angulo De Haro, David",
+                "libro6": "Development of Creativity - Goméz, José",
+                "libro7": "Development Creative Thinking - Velasco, Lucia",
+                "libro8": "Lateral Thought - De Bono, Edward",
+                "libro9": "Innovation and Creativity - Torres Soler, Luis Carlos",
+                "libro10": "Creativity and Intervention in Early Childhood Education - Vázquez Valdivia",
+                "libro11": "RADALYC",
+                "libro12": "RADU VIRTUAL",
+                "libro13": "SAIJ",
+                "libro14": "SIU-BDU",
+                "libro15": "TESEO"
+            }
+        },
+        "placeholder": {
+            "apellido": "Enter your Last Name",
+            "nombre": "Enter your First Name",
+            "dni": "Enter your Passport or Visa",
+            "email": "Enter your Email",
+            "telefono": "Enter your Phone",
+            "mensaje": "Enter your Message"
+        },
+        "herramientas": {
+            "titulo": "Name Of The Tool",
+            "herramienta1": "Digital Darwinism",
+            "herramienta2": "Cataloging",
+            "herramienta3": "Read in Library",
+            "herramienta4": "The Library Role",
+            "herramienta5": "Digitization: Standards",
+            "herramienta6": "Library: Connection",
+            "herramienta7": "APA rules",
+            "herramienta8": "UNLP Repository: Best of Argentina",
+            "herramienta9": "National Autonomous University of Mexico",
+            "herramienta10": "Mexican Association of Librarians A.C.",
+            "herramienta11": "Argentine Information Society",
+            "herramienta12": "National Library of Teacher",
+            "herramienta13": "Information Professional's Page",
+            "herramienta14": "Argentine Library for the Blind",
+            "herramienta15": "APA 2019 Standards",
+            "herramientaBib":"Book Name - Page"
+        },
+        "info": {
+            "formularios": {
+                "titulo": "FORMS",
+                "autorizaciondocumentos": "AUTHORIZATION OF DOCUMENTS",
+                "autorizaciontesis": "AUTHORIZATION OF THESIS",
+                "notificacionreglamento": "NOTIFICATION OF REGULATIONS",
+                "reglamentobiblioteca": "LIBRARY REGULATIONS"
+            },
+            "folleteria": {
+                "titulo": "FOLLETERY",
+                "bibliotecafolleto": "LIBRARY BOOKLET",
+                "prestamosbusquedas": "LOANS - SEARCHES",
+                "catalogoopac": "OPAC CATALOG",
+                "opacguiadeuso": "OPAC: USE GUIDE"
+            }
+        },
+        "imprenta": {
+            "jumbotron": {
+                "titulo": "IMPRESS UMAZA",
+                "subtitulo": "Juan Agustín Maza University",
+                "contenido": "In the printing press of the Maza University, copying, printing and binding of complete study materials are carried out for the chairs that the students take. In addition, the printing company performs special works for teachers, students, researchers and support staff of the University."
+            },
+            "card": {
+                "titulo": "IMPRESS UMAZA",
+                "subtitulo": "Coordination: Mr. Renato Morelli"
+            },
+            "galeria": {
+                "titulo1": "MAIN TASKS",
+                "contenido1": "In the University Printing, checkbooks, forms, letterheads and other materials used by the offices and areas of the University are made to perform different procedures.",
+                "titulo2": "BUY NOTES",
+                "contenido2": "To access the purchase of full lecture notes or individual photocopies, the student must first purchase a free rechargeable card (only the first time).",
+                "titulo3": "ACQUIRE THE CARD",
+                "contenido3": "To acquire the same, a charge must be made to the customs office, which will be deducted as private copies or full lecture notes are withdrawn.",
+                "titulo4": "CÁTEDRA NOTES",
+                "contenido4": "All notes of the full chair are withdrawn in the Printing Office, previously reviewed and authorized by the professor.",
+                "titulo5": "PRIVATE COPIES",
+                "contenido5": "They are made in the Photocopier, with the only exception of not being able to photocopy materials that have copyrights.",
+                "titulo6": "LAW N ° 11.723",
+                "contenido6": "Regulates such rights and is called Law 11.723 LEGAL REGIME OF INTELLECTUAL PROPERTY, known as Noble Law."
+            }
+        },
+        "editorial": {
+            "jumbotron": {
+                "titulo": "EDITORIAL UMAZA",
+                "subtitulo": "Juan Agustín Maza University",
+                "contenido": "The editorial production is a process composed of several steps, which range from the creation of the book by the author to the consumption of this by the reader. Normally each part of the process is entrusted to a specific institutional body."
+            },
+            "card": {
+                "titulo": "EDITORIAL UMAZA",
+                "subtitulo": "Coordination: Lic. Pamela Alcover"
+            },
+            "galeria": {
+                "titulo1": "DELIVERY OF THE ORIGINAL",
+                "contenido1": "It begins when the author delivers an original text to the publisher or publisher of a publication, in order that the work is evaluated and it is decided whether or not it can be published. The original is the material that will serve as the basis for the future book.",
+                "titulo2": "EDITORIAL EVALUATION",
+                "contenido2": "The Evaluation of the Editorial, it consists basically in an analysis of the editorial feasibility. For this, criteria such as the following are taken into account. Determine if the original delivered has the appropriate level of elaboration",
+                "titulo3": "LEVEL ELABORATION",
+                "contenido3": "If the original perfectly fulfills the functions for which it was conceived. It can also be the case, very common, that the commission returns the original to the author in order to rework it, expand it or make the corrections that come to the case.",
+                "titulo4": "CORRECTION",
+                "contenido4": "It consists of reviewing and correcting an original manuscript in order to give it clarity, conciseness and harmony, adding value to the text, and making it intelligible to the reader. Correct spelling, grammar, syntax, orthotygraphy, style, format.",
+                "titulo5": "DIAGRAM",
+                "contenido5": "In the layout, what is shown on the page of the work, where the final text will be given to the text and the images that make up the work. Expressed with more details, it is the means by which it is established, the physical characteristics that the publication will have.",
+                "titulo6": "PRINT",
+                "contenido6": "In printing it is a process for the production of texts and images, typically with ink on paper using a rotary press. It is often done as a large-scale industrial process, and is an essential part of book publishing. Almost finished product.",
+                "titulo7": "BINDING",
+                "contenido7": "It is called binding to the action of sewing or pasting several sheets or textbooks and covering them. It is one of the final stages of the edition before delivering the material",
+                "titulo8": "CIRCULATION-SALE",
+                "contenido8": "Once printed the book, magazine or newspaper starts its distribution and sale. Many of the sales and circulation strategies are predefined by the Editorial Department of Marketing.",
+                "titulo9": "THE EDITORIAL",
+                "contenido9": "The Area is coordinated by Lic. Pamela Alcover and Dis. Mauricio Galeone. The Editorial UMaza, owns an Online Library. To access:"
+            }
+        },
+        "biblioteca": {
+            "jumbotron": {
+                "titulo": "CENTRAL LIBRARY",
+                "subtitulo": "Juan Agustín Maza University",
+                "contenido": "His name is due to Professor Arlington Ernesto Lucero, a posthumous tribute to this founding professor of the University. In his career he served as Dean of the Faculty of Mathematical Physics, Rector of the Institute of Secondary Education and General Secretary of the University."
+            },
+            "card": {
+                "titulo": "PROF. ARLINGTON LUCERO",
+                "subtitulo": "General Coordination: Lic. Ana María Beningazza"
+            },
+            "galeria": {
+                "titulo1": "ABOUT US",
+                "contenido1": "In it, there is direct contact with the students, teachers and researchers to lend them or recommend the requested material. ",
+                "titulo2": "FLAT ROOM",
+                "contenido2": "Designed so that students can perform their jobs, studies in a warm and comfortable way. It is equipped with chairs, counters and others.",
+                "titulo3": "SILENT READING ROOM",
+                "contenido3": "It grants a plus of calm, calmness, rest and allows to separate from the external sound, achieving greater concentration: fix the thought without being distracted.",
+                "titulo4": "INTERNET ROOM STUDENTS",
+                "contenido4": "Equipped with 12 PCs. The student must go to the counter and ask for a PC. The Library will ask you to fill out the notebook to be assigned a PC.",
+                "titulo5": "INTERNET TEACHER ROOM",
+                "contenido5": "Equipped with 4 PCs for the exclusive use of teachers and researchers, the Electronic Library of MINCYT and two desktops with a network cable for personal computers.",
+                "titulo6": "PROFESSORS CUYANA ROOM",
+                "contenido6": "This Chamber has a prestigious mobility and magazines, so that Teachers and Researchers can comfortably perform their educational tasks."
+            }
+        },
+        "footer": {
+            "col1": {
+                "titulo1": "UNIVERSITY",
+                "titulo2": "MAZA",
+                "direccion1": "DIRECTION",
+                "direccion2": "Avenida Acceso Este, Lateral Sur 2245, Guaymallén, Mendoza."
+
+            },
+            "col2": {
+                "titulo1": "SCHEDULES",
+                "titulo2": "LIBRARY",
+                "biblioteca1": "LIBRARY",
+                "biblioteca2": "Monday to Friday from 8:30 a.m. to 9:30 p.m.",
+                "editorial1": "EDITORIAL",
+                "editorial2": "Tuesday, Wednesday and Friday from 2pm to 7pm - Monday and Thursday from 8am to 1pm ",
+                "imprenta1": "PRINTING",
+                "imprenta2": "Monday to Friday from 9 a.m. to 1 p.m. and from 4 to 9 p.m."
+            },
+            "col3": {
+                "titulo1": "SOCIAL",
+                "titulo2": "NETWORKS",
+                "correo": "E-mail - Central Library",
+                "telefono1": "Direct",
+                "telefono2": "Phone"
+            },
+            "col4": {
+                "titulo1": "Change ",
+                "titulo2": "Language",
+                "ingles": "English",
+                "español": "Spanish"
+            }
+        },
+        "header": {
+            "menu1": {
+                "opac": "Online Catalog OPAC",
+                "repositorio": "Institutional Repository",
+                "reservacion": "Cultural Academic Space: Online Reservations",
+                "bibliotecasdigitales": "Digital Libraries",
+                "bibliotecariosherramientas": "Librarians: Tools",
+                "manual":"User Manual"
+            },
+            "menu2": {
+                "biblioteca": "LIBRARY",
+                "quienessomos": {
+                    "titulo": "About Us",
+                    "biblioteca": "Library",
+                    "editorial": "Editorial",
+                    "imprenta": "Printing"
+                },
+                "ingresos": {
+                    "titulo": "Material: Income",
+                    "i2017": "Income 2017",
+                    "i2018": "Income 2018",
+                    "i2019": "Income 2019"
+                },
+                "infobiblioteca": {
+                    "titulo": "+ INFO LIBRARY",
+                    "calendario": "Academic Calendar",
+                    "formulario": "Form - Brochures",
+                    "guia": "Food Guide",
+                    "libreria": "Bookstore Online",
+                    "radbu": "RADU - RADBU"
+                },
+                "galeria": {
+                    "titulo": "Gallery",
+                    "galeria1": "Nutritionist's Day",
+                    "galeria2": "Exhibition Pictures",
+                    "galeria3": "Fain Binda",
+                    "galeria4": "National Holidays",
+                    "galeria5": "Ideas Fair",
+                    "galeria6": "Research Conference",
+                    "galeria7": "Marita Oliva",
+                    "galeria8": "Postal Works"
+                },
+                "coronavirus":{
+                    "material":"Covid-19 Books"
+                },
+                "contacto": "Contact"
+            }
+        },
+        "home": {
+            "jumbotron": {
+                "titulo": "CENTRAL LIBRARY",
+                "subtitulo": "Teacher Arlington Lucero",
+                "contenido": "The mission of the Library is to offer an information service that allows the educational community to develop teaching, research and continuing education of citizens esponsible, ethical and committed to the common good."
+            },
+            "card": {
+                "titulo": "MAZA UNIVERSITY",
+                "subtitulo": "Avenida Acceso Este, Lateral Sur 2245",
+                "coordinacion": "General Coordination: Licentiate Ana María Beningazza"
+            },
+            "video": {
+                "principal": "Latest Videos",
+                "titulo1": "About Us?",
+                "titulo2": "I must associate!",
+                "titulo3": "How is ALFIN?"
+            },
+            "ultimasnovedades": {
+                "cartel": "Latest News"
+            },
+            "noticias": {
+                "titulo": "News Section",
+                "noticia1": {
+                    "fecha": "MAY / 02 / 2019",
+                    "titulo": "Book Fair",
+                    "descripcion": "Another year more than Editorial UMaza participates in the Fair International Book Fair in Buenos Aires - # FILBA2019. For those interested in visiting it until the 13th May there are free tickets in Library and Bedelia (from Monday to thursday)."
+                },
+                "noticia2": {
+                    "fecha": "APRIL / 25 / 2019",
+                    "titulo": "Introduction ALFIN Course",
+                    "descripcion": "On the day of the date we received the visit of the students of the Silvia Martínez de Ruiz School No. 4-240 (Department of San Martín), they were offered Introduction to the ALFIN course Literacy Informational and Training in the use of resources University electronics with guided tour. Accompanied by responsible adults: Rubén Yonzo; Nancy Heredia; Lorena Oyola and Macarena Moreno. The visit was guided by the Librarians Ms. Sandra Zuñiga and Mr. Patricio Rojas"
+                },
+                "noticia3": {
+                    "fecha": "APRIL / 17 / 2019",
+                    "titulo": "Blood Donation",
+                    "descripcion": "Wednesday, April 17 from 9 a.m. to 1 p.m. in the Library Central Blood Donation will be made. For more Information communicate with DEC FYB: 4056212"
+                },
+                "noticia4": {
+                    "fecha": "MARCH / 28 / 2019",
+                    "titulo": "RADBU Plenary Meeting",
+                    "descripcion": "Headquarters: San Martín General Public Library In it Lic. Ana María Beningazza, Chief of Library, Editorial and Printing and Mrs. Sandra Zuñiga, Library assistant."
+                },
+                "noticia5": {
+                    "fecha": "DECEMBER / 03 / 2018",
+                    "titulo": "Incorporation of RADBU",
+                    "descripcion": "The Andean Network of University Libraries (RADBU) incorporates the Network of Reciaria Information Networks. Cristina Borrajo, from the area of ​​Communication - and part of the Coordinating Committee of Reciaria- expressed his thanks for the interest of the RADBU in forming part of such a cooperative project."
+                },
+                "noticia6": {
+                    "fecha": "OCTOBER / 24 / 2018",
+                    "titulo": "Interview with Lic. Beningazza",
+                    "descripcion": "Interview with the Head of the Library Lic. Ana María Beningazza by Paulina Gamberg, member of the Board of Directors of the Association of Librarians of the Argentine Republic (ABGRA), for the Bulletin of ABGRA, at the Argentine Catholic University Headquarters Mendoza UCA, during the meeting held with colleagues on Wednesday October 10."
+                },
+                "noticia7": {
+                    "fecha": "SEPTEMBER / 13 / 2018",
+                    "titulo": "Librarian's Day",
+                    "descripcion": "Librarian's Day In Egypt they were called Libraries the treasure of the remedies of the soul. In effect, cured in them of ignorance, the most dangerous of diseases and the origin of all others - Jacques Bénigne Bossuet"
+                },
+                "noticia8": {
+                    "fecha": "AUGUST / 25 / 2018",
+                    "titulo": "Digital Repository Creation",
+                    "descripcion": "In 2016, the areas of Library, and Science and Technique jointly with Editorial create the Institutional Repository This service announces the academic production, scientific technique and memory of the institution, as well as material academic and dissemination of their activities."
+                },
+                "noticia9": {
+                    "fecha": "AUGUST / 20 / 2018",
+                    "titulo": "Diploma: Registration",
+                    "descripcion": "We remind you that closing the registration to the Diploma in Library Management is the 15th of April 2019. We continue answering all your questions. Tea We wait! Limited Quotas. For more information: click here or communicate to the reports phone: + 54-0261-5201630 or via mail: radbu@uda.edu.ar"
+                },
+                "noticia10": {
+                    "fecha": "SEPTEMBER / 11-12 / 2019",
+                    "titulo": "Ebook",
+                    "descripcion": "On September 11 and 12, the second seminar on “The reality of electronic books in libraries in Argentina” will be held. The Maza University Library will participate in the activity, which will be held in the Auditorium of the Law School of UNCuyo."
+                },
+                "noticia11": {
+                    "fecha": "AUGUST / 30 / 2019",
+                    "titulo": "Book Fair 2019",
+                    "descripcion": "From Friday, August 30, until September 8, the most important event for the book industry in Mendoza will take place. Dedicated this edition to Juan Dragui Lucero, Iverna Codina and Antonio Di Benedetto. The UMaza Publishing House will participate with a stand at the Julio Le Parc Cultural Space, and will present 2 recently published titles. In stand 44, assigned to the UMaza Publishing House, they will be able to find their titles, and also that of other university publishers (such as EDIUNC, UNSAM, EDUNER, EDUNSE, EDUVIM, EUDEBA ...), commercial and independent. There will be promotions, special discounts and books that are presented at the fair will be obtained at a single price. It can be visited during the 10 days from 16 to 22 and all payment methods will be accepted. As for the presentations, on Tuesday, September 3 at 7 p.m. in the Chalo Tulián room, the book Musicoterapia en el Geritotrico, by Cora Leivinson, will be presented, who will be accompanied by students of the Music Therapy career performing a live session, while that on Saturday, September 7 at 7:00 pm in the Vilma Rupulo room, the presentation of the book Avelino Maure, 50 years old, by José Luis Verderico, will be held, with the participation of the journalist Marcela Furlano."
+                }
+            }
+        },
+        "principales": {
+            "importante":"Important:",
+            "manualUsuario":"To View User Manual:",
+            "informacion":"Mincyt Data",
+            "tituloMincyt":"Users-Passwords-Proxy-Port",
+            "PER":"Faculty of Journalism",
+            "EDU":"Faculty of Education",
+            "FYB":"Faculty of Pharmacy and Biochemistry",
+            "KIN":"Faculty of Kinesiology and Physiotherapy ",
+            "CEJ":"Faculty of Business and Legal Sciences",
+            "ENO":"Faculty of Enology",
+            "NUT":"Faculty of Nutrition",
+            "ING":"Faculty of Engineering",
+            "VET":"Faculty of Veterinary ",
+            "mincyt":"Mincyt Data Bases",
+            "tituloM":"Referential and full-text databases, signed by the Electronic Library of Science and Technology of the Argentine Republic, whose content can be accessed from the authorized institutions.",
+            "enviar": "Submit",
+            "imagen": "View image",
+            "db": "Go to Mincyt",
+            "cerrar": "Close",
+            "visitar": "Visit Page",
+            "iralapagina": "Go to the page",
+            "meses": {
+                "titulo": "Month",
+                "mes1": "January",
+                "mes2": "February",
+                "mes3": "March",
+                "mes4": "April",
+                "mes5": "May",
+                "mes6": "June",
+                "mes7": "July",
+                "mes8": "August",
+                "mes9": "September",
+                "mes10": "October",
+                "mes11": "November",
+                "mes12": "December"
+            }
+
+        },
+        "contacto": {
+            "info": {
+                "informacion": "CONTACT INFORMATION",
+                "correo": "biblioteca@umaza.edu.ar",
+                "telefono": "+54 (0261) - 4056223"
+            },
+            "datos": {
+                "apellido": "Last Name",
+                "nombre": "First Name",
+                "telefono": "Phone",
+                "email": "Email",
+                "mensaje": "Message"
+            }
+        },
+        "reservacion": {
+            "info": {
+                "informacion": "CONTACT INFORMATION",
+                "correo": "biblioteca@umaza.edu.ar",
+                "telefono": "+54 (0261) - 4056223"
+            },
+            "datos": {
+                "apellido": "Last Name",
+                "nombre": "First Name",
+                "dni": "Passport or Visa",
+                "email": "Email",
+                "telefono": "Phone",
+                "area": "Select Area of ​​UMaza or Particular",
+                "area2": "Area of ​​UMaza or Particular",
+                "hentrada": "Entry Time",
+                "hsalida": "Departure Time",
+                "diareservar": "Day to Book",
+                "mensaje": "Message"
+            }
+        }
+    }
+
+}
